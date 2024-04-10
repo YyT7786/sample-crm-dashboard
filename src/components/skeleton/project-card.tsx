@@ -29,7 +29,7 @@ const ProjectCardSkeleton = () => {
             />
             <Skeleton.Avatar active size="small" />
         </Card>
-    )
-}
+    );
+};
 
 export default ProjectCardSkeleton;
